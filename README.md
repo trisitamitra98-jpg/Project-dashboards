@@ -6,6 +6,7 @@ The Rotten Tomatoes Dashboard is an interactive Microsoft Power BI report design
 
 Tech Stack
 The dashboard was built using the following tools and technologies:
+
 📊 Microsoft Power BI Desktop – Primary platform used to design and develop the interactive dashboard.
 📂 Power Query – Used for data cleaning, transformation, and shaping of the Rotten Tomatoes dataset.
 🧠 DAX (Data Analysis Expressions) – Created calculated measures (e.g., averages, counts, Top N logic) and enabled dynamic insights.
